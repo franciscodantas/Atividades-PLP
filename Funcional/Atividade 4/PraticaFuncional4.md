@@ -10,10 +10,10 @@ Assim como Pedrinho, faça um programa Haskell que recebe um texto e elimina pal
 
 
 ## Teste Público:
-Entrada:
+### Entrada:
 
         Jorge foi comprar bolo, mas esqueceu do dinheiro que levaria para a padaria. Ele entao voltou para casa, foi ate seu quarto, onde antes estava o dinheiro, pegou 10 reais e levou novamente a padaria. Quando chegou la, o bolo que ele queria ja havia sido vendido. Jorge ficou muito triste.
 
 
-## Saída:
+### Saída:
        Jorge comprar bolo, esqueceu dinheiro levaria para padaria. entao voltou para casa, quarto, onde antes estava dinheiro, pegou reais levou novamente padaria. Quando chegou bolo queria havia sido vendido. Jorge ficou muito triste.

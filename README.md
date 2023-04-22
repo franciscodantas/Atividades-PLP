@@ -1,6 +1,6 @@
 <h1 align="center"> <p> Atividades PLP 👨‍💻 </p> </h1>
 
-# 📝 Descrição
+## 📝 Descrição
 
 Ropositório com as atividades desenvolvidas na disciplina de Paradigmas de Linguagem de Programação, com foco no paradigma funcional e lógico.
 
